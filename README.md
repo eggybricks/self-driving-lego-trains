@@ -28,7 +28,9 @@ Complete list of scenarios (including links to where it's demoed in the video):
 
 ## 👀 To use this with your own trains and layout
 
-You should be able to go straight to scenario 8, change the track layout to match your own, and change the switches and trains to match yours — and it theoretically should work.
+First, make sure each of your trains has a motor and a color-and-distance sensor. Here are instructions to add a color-and-distance sensor to any motorized PoweredUp train (it's written for our freight trains, but should work for any other train that has space for a sensor): [instructions - adding color-distance sensor](https://github.com/eggybricks/self-driving-lego-trains/blob/main/instructions%20-%20adding%20color-distance%20sensor.pdf)
+
+Once you have all the parts needed, you should be able to run scenario 08, change the track layout to match your own, and change the switches and trains to match yours — and it *theoretically* should work.
 
 ## 🍳 How do I get a train that will run this code?
 
